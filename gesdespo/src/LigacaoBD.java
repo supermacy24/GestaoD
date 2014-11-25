@@ -1,6 +1,6 @@
 
 public class LigacaoBD {
 	public static void main(){
- System.out.println("jkasdhjsdsjak");
+ System.out.println("OH XUAMO1");
 	}
 }
