@@ -1,6 +1,6 @@
 
 public class LigacaoBD {
 	public static void main(){
- System.out.println("testeidhosi");
+ System.out.println("testegitjoao");
 	}
 }
